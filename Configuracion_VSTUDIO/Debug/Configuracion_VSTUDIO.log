@@ -1,0 +1,6 @@
+﻿  practica7_alumno.cpp
+c:\users\elda\desktop\computacion grafica\sayury\configuracion_vstudio\configuracion_vstudio\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\elda\desktop\computacion grafica\sayury\configuracion_vstudio\configuracion_vstudio\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+c:\users\elda\desktop\computacion grafica\sayury\configuracion_vstudio\configuracion_vstudio\practica7_alumno.cpp(29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\elda\desktop\computacion grafica\sayury\configuracion_vstudio\configuracion_vstudio\practica7_alumno.cpp(185): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Configuracion_VSTUDIO.vcxproj -> C:\Users\Elda\Desktop\COMPUTACION GRAFICA\SAYURY\Configuracion_VSTUDIO\Debug\Configuracion_VSTUDIO.exe
